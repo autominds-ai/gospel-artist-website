@@ -4,6 +4,8 @@
 
 **Live site:** [abigailisaac.com](https://abigailisaac.com) · Built by [AutoMinds AI Services](https://autominds-ai.github.io)
 
+![Home page: name, tagline, portrait and two clear calls to action](screenshots/01-home.png)
+
 ---
 
 ## What the site does for the artist
